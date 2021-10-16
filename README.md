@@ -17,8 +17,6 @@ If you want to add this project on your own computer, you can install this proje
 git clone https://github.com/dannsdb/random-image-rest-api.git
 ```
 2. Install dependencies
-
-In my API I use npm for package manager, you can customize with your favorite package manager
 ```
 pnpm install
 node ./index.js
