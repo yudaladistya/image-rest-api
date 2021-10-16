@@ -1,16 +1,15 @@
 {
   "name": "randomImages-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The Random Picture Generator contains 1000+ random images. Enjoy finding random pictures and photos.",
   "main": "index.js",
   "scripts": {
     "start:scrape": "node ./index.js"
   },
   "keywords": [
-    "scrapper",
-    "node",
-    "anime",
-    "waifu"
+    "random",
+    "randomimage",
+    "images-api"
   ],
   "author": "Muhamad Ramdani",
   "license": "MIT",
