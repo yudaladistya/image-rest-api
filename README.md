@@ -13,6 +13,7 @@ The Random Picture Generator contains 1000+ random images. Enjoy finding random 
 | Description | Endpoint | 
 |------------ | ---------|
 | Random Image Pussy | https://r-images.dannsdb.id/api/kucing |
+| Random Image Wallpaper Estetik | https://r-images.dannsdb.id/api/wpestetik |
 | Random Image Meme Shitmeme Untuk Kebutuhan Iman | https://r-images.dannsdb.id/api/memesuki |
 
 # Installation
@@ -26,6 +27,3 @@ git clone https://github.com/dannsdb/random-image-rest-api.git
 pnpm install
 node ./index.js
 ```
-
----
-Powered by Node.js and Vercel + Created By Muhamad Ramdani
