@@ -31,7 +31,7 @@ node ./index.js
 
 💙 If you like this project, give it a ⭐ and share it with friends!
 
-[☕ Buy me a coffee](ko-fi.com/itsramm)
+[☕ Buy me a coffee](https://ko-fi.com/itsramm)
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://dannsdb.live/tip)
 
