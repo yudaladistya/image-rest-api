@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Random Images Rest API</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 </div>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://r-images.dannsdb.id/)
@@ -25,6 +26,11 @@ git clone https://github.com/dannsdb/random-image-rest-api.git
 pnpm install
 node ./index.js
 ```
+
+### Support me
+
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/lukashimsel)
 
 ---
 Powered by Node.js and Vercel + Created By Muhamad Ramdani
