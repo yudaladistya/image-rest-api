@@ -1,6 +1,8 @@
+<div align="center">
 <h1>Random Images Rest API</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+</div>
 
 # Description
 The Random Picture Generator contains 1000+ random images. Enjoy finding random pictures and photos.
