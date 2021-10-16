@@ -37,4 +37,4 @@ node ./index.js
 
 ---
 
-Made with ❤️ and Javasscript
+Made with ❤️ and Javascript
