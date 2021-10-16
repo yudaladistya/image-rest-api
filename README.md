@@ -33,6 +33,8 @@ node ./index.js
 
 [☕ Buy me a coffee](ko-fi.com/itsramm)
 
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://dannsdb.live/tip)
+
 ---
 
 Made with ❤️ and Javasscript
