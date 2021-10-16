@@ -23,4 +23,4 @@ node ./index.js
 ```
 
 ---
-Powered by Node.js and Vercel + Created By @Dannsdb
+Powered by Node.js and Vercel + Created By Muhamad Ramdani
