@@ -5,6 +5,10 @@
 # Description
 The Random Picture Generator contains 1000+ random images. Enjoy finding random pictures and photos.
 
+| Description | Endpoint | 
+|------------ | ---------|
+| Random Image Pussy | https://r-images.dannsdb.id/api/kucing |
+
 # Installation
 If you want to add this project on your own computer, you can install this project by following the steps below :
 
