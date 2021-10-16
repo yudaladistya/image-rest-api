@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 </div>
 
+[![Deploy with Vercel](https://vercel.com/button)](https://r-images.dannsdb.id/)
+
 # Description
 The Random Picture Generator contains 1000+ random images. Enjoy finding random pictures and photos.
 
