@@ -16,11 +16,11 @@ The Random Picture Generator contains 1000+ random images. Enjoy finding random 
 
 # Installation
 
-1. Clone this repository
+- Clone this repository
 ```
 git clone https://github.com/dannsdb/random-image-rest-api.git
 ```
-2. Install dependencies
+- Install dependencies
 ```
 pnpm install
 node ./index.js
