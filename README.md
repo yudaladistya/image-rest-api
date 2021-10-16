@@ -27,3 +27,12 @@ git clone https://github.com/dannsdb/random-image-rest-api.git
 pnpm install
 node ./index.js
 ```
+## Support
+
+💙 If you like this project, give it a ⭐ and share it with friends!
+
+[☕ Buy me a coffee](ko-fi.com/itsramm)
+
+---
+
+Made with ❤️ and Javasscript
