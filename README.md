@@ -30,7 +30,7 @@ node ./index.js
 ### Support me
 
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/lukashimsel)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://ko-fi.com/itsramm )
 
 ---
 Powered by Node.js and Vercel + Created By Muhamad Ramdani
