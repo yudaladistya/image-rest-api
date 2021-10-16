@@ -15,7 +15,6 @@ The Random Picture Generator contains 1000+ random images. Enjoy finding random 
 | Random Image Pussy | https://r-images.dannsdb.id/api/kucing |
 
 # Installation
-If you want to add this project on your own computer, you can install this project by following the steps below :
 
 1. Clone this repository
 ```
