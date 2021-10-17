@@ -26,9 +26,21 @@
             The Random Picture Generator contains 1000+ random images. <br><b>Enjoy finding random pictures and photos.</b></a>
         </div>
         <div class="controls">
+            <form>
+                <div class="select">
+                    <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+                     <option value="" selected disabled>--- API LIST ---</option>
+                     <option value="./api/kucing">Random Image Kucing</option>
+                     <option value="./api/wpestetik">Random Image Wallpaper Estetik</option>
+                     <option value="./api/memesuki">Random Image Meme Shitmeme Untuk Kebutuhan Iman</option>
+                  </select>
+                </div>
+                <button disabled>RESULT!</button>
+            </form>
         </div>
         <div class="links">
             <a href="https://r-images.dannsdb.id">Made by <b>Muhamad Ramdani</b></a>
+            <a href="https://github.com/dannsdb/random-image-rest-api">Open Source <b>Github</b></a>
             <span class="divider"></span>
         </div>
     </div>
