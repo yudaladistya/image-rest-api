@@ -1,4 +1,4 @@
-const randomImages = require('./api/kucing')
+const randomImages = require('./api/')
 const fs = require('fs')
 const path = require('path')
 const chalk = require('chalk')
