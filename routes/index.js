@@ -1,4 +1,6 @@
-let express = require('express'), router = express.Router(), favicon = require('serve-favicon')
+let express = require('express'),
+    router = express.Router(),
+    favicon = require('serve-favicon')
 router.use(favicon(process.cwd() + '/'))
 
 router.get('/', (req, res) => {
@@ -6,7 +8,7 @@ router.get('/', (req, res) => {
 })
 
 router.get('/api', (req, res) => {
-	res.redirect('https://r-images.dannsdb.id')
+    res.redirect('https://r-images.dannsdb.id')
 })
 
 module.exports = router
