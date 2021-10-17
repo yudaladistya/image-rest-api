@@ -31,7 +31,9 @@ node ./index.js
 
 💙 If you like this project, give it a ⭐ and share it with friends!
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://dannsdb.live/tip)
+[![Support via PayPal](https://cdn.dannsdb.id/upload/saweria-github-button/1.0.0/dist/button.svg)](https://saweria.co/donate/dannsdb)
+
+[![Support via PayPal](https://cdn.dannsdb.id/upload/paypal-github-button/1.0.0/dist/button.svg)](https://dannsdb.live/tip)
 
 ---
 
