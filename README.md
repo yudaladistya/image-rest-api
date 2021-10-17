@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Random Images Rest API</h1>
+<h1>Random Image Rest API</h1>
 
 [![License: MIT](https://cdn.dannsdb.id/upload/License-MIT-yellow/button.svg)](https://opensource.org/licenses/MIT)
 
