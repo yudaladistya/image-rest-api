@@ -8,11 +8,16 @@ var limiter = new RateLimit({
   max: 5
 });
 
-// apply rate limiter to all requests
-app.use(limiter);
+var fs = require('fs'),
+    http = require('http'),
+    url = require('url');
 
-app.get('/public/index.html', function(req, res) {
-  let path = req.params.path;
-  if (isValidPath(path))
-    res.sendFile(path);
+var server = http.createServer(function(req, res) {
+  let path = url.parse(req.url, true).query.path;
+
+  // BAD: This could read any file on the file system
+  res.write(fs.readFileSync(path));
+
+  // BAD: This could still read any file on the file system
+  res.write(fs.readFileSync("/public/index.html" + path));
 });
