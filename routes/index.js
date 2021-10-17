@@ -1,7 +1,18 @@
-let express = require('express'), router = express.Router()
+var express = require('express');
+var app = express();
 
-router.get('/:', (req, res) => {
-    res.sendFile(process.cwd() + '/public/index.html')
-})
+// set up rate limiter: maximum of five requests per minute
+var RateLimit = require('express-rate-limit');
+var limiter = new RateLimit({
+  windowMs: 1*60*1000, // 1 minute
+  max: 5
+});
 
-module.exports = router
+// apply rate limiter to all requests
+app.use(limiter);
+
+app.get('/public/index.html', function(req, res) {
+  let path = req.params.path;
+  if (isValidPath(path))
+    res.sendFile(path);
+});
