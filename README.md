@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Random Images Rest API</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://cdn.dannsdb.id/upload/License-MIT-yellow/button.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
