@@ -3,9 +3,8 @@
 
 [![License: MIT](https://cdn.dannsdb.id/upload/License-MIT-yellow/button.svg)](https://opensource.org/licenses/MIT)
 
+![Screenshot](https://cdn.dannsdb.id/upload/images/api/random-image-rest-api.png)
 </div>
-
-[![Deploy with Vercel](https://vercel.com/button)](https://r-images.dannsdb.id/)
 
 # Description
 A simple API for serving random images.
@@ -28,6 +27,10 @@ git clone https://github.com/dannsdb/random-image-rest-api.git
 pnpm install
 node ./index.js
 ```
+## Deploy with Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://r-images.dannsdb.id/)
+
 ## Support
 
 💙 If you like this project, give it a ⭐ and share it with friends!
