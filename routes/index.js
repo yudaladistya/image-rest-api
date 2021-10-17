@@ -8,7 +8,7 @@ router.get('/', (req, res) => {
 })
 
 router.get('/api', (req, res) => {
-    res.redirect('https://r-images.dannsdb.id')
+    res.redirect('https://image.dannsdb.id')
 })
 
 module.exports = router
