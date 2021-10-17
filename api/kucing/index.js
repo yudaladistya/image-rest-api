@@ -5,7 +5,9 @@ const fileJson = path.join(__dirname, '..', '..', 'data', 'Kucing.json')
 module.exports = async (_, res) => {
     const data = await fs.readFile(fileJson, 'utf-8')
     const randomImages = JSON.parse(data)
-    const hasil = {"results" : randomImages}
+    const hasil = {
+        "results": randomImages
+    }
 
     res.status(200).send(hasil)
 }
