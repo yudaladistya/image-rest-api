@@ -28,7 +28,7 @@ node ./index.js
 ```
 ## Deploy with Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://r-images.dannsdb.id/)
+[![Deploy with Vercel](https://vercel.com/button)](https://image.dannsdb.id/)
 
 ## Support
 
