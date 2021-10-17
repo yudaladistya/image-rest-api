@@ -10,10 +10,10 @@ A simple API for serving images.
 
 | Description | Endpoint | 
 |------------ | ---------|
-| Random Image Pussy | https://r-images.dannsdb.id/api/kucing |
-| Random Image Wallpaper Estetik | https://r-images.dannsdb.id/api/wpestetik |
-| Random Image Meme Shitmeme Untuk Kebutuhan Iman | https://r-images.dannsdb.id/api/memesuki |
-| Random Image Meme Dahaga Meme Kategori Reborn | https://r-images.dannsdb.id/api/memedmkr |
+| Image Pussy | https://r-images.dannsdb.id/api/kucing |
+| Image Wallpaper Estetik | https://r-images.dannsdb.id/api/wpestetik |
+| Image Meme Shitmeme Untuk Kebutuhan Iman | https://r-images.dannsdb.id/api/memesuki |
+| Image Meme Dahaga Meme Kategori Reborn | https://r-images.dannsdb.id/api/memedmkr |
 
 # Installation
 
