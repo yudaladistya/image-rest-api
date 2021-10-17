@@ -15,13 +15,12 @@
     <meta property="og:image" content="https://cdn.dannsdb.id/upload/images/5fd303549b2c9.jpg" />
     <!-- CSS -->
     <link href='https://x.dannsdb.id/assets/css/styles.css' rel='stylesheet'>
-    <link href='https://x.dannsdb.id/assets/css/animate.css' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
     <div class="center">
-        <h1 class="animated strobe"> Random image rest API </h1>
+        <h1> Random image rest API </h1>
         <div class="description">
             A simple API for serving random images.</a>
         </div>
@@ -29,7 +28,7 @@
             <form>
                 <div class="select">
                     <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
-                     <option value="" selected disabled>--------- API LIST ---------</option>
+                     <option value="" selected disabled class="center">--------- API LIST ---------</option>
                      <option value="./api/kucing">Random Image Kucing</option>
                      <option value="./api/wpestetik">Random Image Wallpaper Estetik</option>
                      <option value="./api/memesuki">Random Image Meme Shitmeme Untuk Kebutuhan Iman</option>
