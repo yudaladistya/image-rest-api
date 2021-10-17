@@ -1,4 +1,3 @@
-
 let express = require('express'), path = require('path'), cookieParser = require('cookie-parser'), logger = require('morgan')
 let indexRouter = require('./routes/index')
 let PORT = process.env.PORT || 8080
