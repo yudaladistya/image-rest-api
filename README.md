@@ -19,7 +19,7 @@ A simple API for serving images.
 
 - Clone this repository
 ```
-git clone https://github.com/dannsdb/random-image-rest-api.git
+git clone https://github.com/dannsdb/image-rest-api.git
 ```
 - Install dependencies
 ```
